@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Material Maker
+Exec=material_maker.x86_64
+Icon=icon
+Type=Application
+Categories=Utility;
+Name[en_IN]=material-maker
