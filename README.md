@@ -3,7 +3,7 @@ Maintaining Material Maker appimages unofficially
 Note:- There is still some work to do for nighlty builds
 
 # Running
-  1. Download the lastest AppImage from [release section](https://github.com/stupid-kid-af/Godot-AppImage/releases) [Alt](https://github.com/stupid-kid-af/material-maker-AppImage/releases/download/v0.99/Material_Maker-x86_64.AppImage)
+  1. Download the lastest AppImage from [release section](https://github.com/stupid-kid-af/material-maker-AppImage/releases) [(Alt)](https://github.com/stupid-kid-af/material-maker-AppImage/releases/download/v0.99/Material_Maker-x86_64.AppImage)
   2. Make it executable 
       ```bash
       chmod a+x Material_Maker-x86_64.AppImage
